@@ -55,7 +55,6 @@ a {
   text-decoration: none;
   padding: 24px 0;
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .link:hover,
@@ -113,6 +112,7 @@ header {
 .contacts {
   font-style: normal;
   color: #434455;
+  font-size: 400;
 }
 
 .contacts-list {
@@ -280,6 +280,10 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
   text-align: center;
+}
+
+.text-left {
+  text-align: left;
 }
 
 .photo {
